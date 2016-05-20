@@ -1,0 +1,1 @@
+"# Browser-detection-javascript-plugin" 
